@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/todolist2/static/css/main.8d971fa7.css",
-    "main.js": "/todolist2/static/js/main.429b61a1.js",
-    "static/js/787.2843ca88.chunk.js": "/todolist2/static/js/787.2843ca88.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/todolist2/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/todolist2/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/todolist2/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/todolist2/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/todolist2/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/todolist2/index.html",
-    "main.8d971fa7.css.map": "/todolist2/static/css/main.8d971fa7.css.map",
-    "main.429b61a1.js.map": "/todolist2/static/js/main.429b61a1.js.map",
-    "787.2843ca88.chunk.js.map": "/todolist2/static/js/787.2843ca88.chunk.js.map"
+    "main.css": "/todolist/static/css/main.6717a24e.css",
+    "main.js": "/todolist/static/js/main.683f4811.js",
+    "static/js/787.2843ca88.chunk.js": "/todolist/static/js/787.2843ca88.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/todolist/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/todolist/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/todolist/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/todolist/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/todolist/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/todolist/index.html",
+    "main.6717a24e.css.map": "/todolist/static/css/main.6717a24e.css.map",
+    "main.683f4811.js.map": "/todolist/static/js/main.683f4811.js.map",
+    "787.2843ca88.chunk.js.map": "/todolist/static/js/787.2843ca88.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d971fa7.css",
-    "static/js/main.429b61a1.js"
+    "static/css/main.6717a24e.css",
+    "static/js/main.683f4811.js"
   ]
 }
